@@ -9,6 +9,10 @@ https://en.bitcoin.it/wiki/Protocol_documentation
 
 That's what I'm looking at :-)
 
+## Hex files
+* <code>wiki_example_tx.hex</code> - has the transaction from the wiki protocol docs.
+* <code>Nielsen319.hex</code> - has the .319 BTC transaction mentioned below.
+
 ## Notes
 
 To obtain a raw transaction use blockexplorer's <code>/api/rawtx/</code>
